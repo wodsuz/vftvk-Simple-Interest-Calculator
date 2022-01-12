@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  font: arial;
+  color: white;
+}
+
+h1 {
+  color: grey;
+  font: verdana;
+  text-align: center;
+}
+
+.maindiv {
+  margin: auto;
+  background-color: rgba(255, 251, 251, 0.911);
+  color: black;
+  width: 400px;
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 25px;
+  -webkit-box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+}
+.div {
+  padding-left: 20px;
+}
+#principal {
+  margin-left: 90px;
+  font-size: 20px;
+  width: 200px;
+}
+.div input {
+  margin-left: 60px;
+}
+#sliderValue {
+  color: black;
+  font-size: 20px;
+}
+#years {
+  margin-left: 60px;
+  font-size: 20px;
+  width: 200px;
+}
